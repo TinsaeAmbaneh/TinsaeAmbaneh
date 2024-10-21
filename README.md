@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinsaeAmbaneh
 - 👀 I’m interested in Java Web Application Development
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently graduated on Computer Science and Engineering, from Adama Science and Technology University
 - 💞️ I’m looking to collaborate with any young developers like me and work on Small hands on Projects 
 
 
